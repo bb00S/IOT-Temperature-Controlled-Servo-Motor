@@ -6,6 +6,9 @@ The project includes a report on the development of a system for an independent 
 
 In addition, we have integrated an LCD screen in order to simplify interpretation of data.The room temperature will be expressed according to the Celsius scale. To approach a real automation application the variables that were studied and controlled are temperature and humidity. In automatic mode, the measurement of control variables is carried out, while the regulation will be held according to the conditions to which it is exposed.
 
+#Diagram 
+![image](https://github.com/bb00S/IOT-Temperature-Controlled-Servo-Motor/assets/121176322/a6b9e0b0-61c6-48d9-bfce-f9c0f4e6af9b)
+
 # Structure
 The components used in the implementation are as follows:
 
